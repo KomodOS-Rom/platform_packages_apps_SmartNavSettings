@@ -194,4 +194,8 @@
     <string name="smartbar_custom_icon_size_title">Масштабирование значков</string>
     <string name="smartbar_double_tap_sleep_title">Спящий режим</string>
     <string name="smartbar_double_tap_sleep_summary">Дважды коснитесь панели навигации для перевода устройства в спящий режим</string>
+	
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Пиксель анимация</string>
+    <string name="pixel_navbar_anim_summary">Анимация в стиле пиксель, кнопки домой</string>
 </resources>
