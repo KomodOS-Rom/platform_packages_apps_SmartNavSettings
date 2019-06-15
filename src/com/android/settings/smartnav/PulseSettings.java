@@ -31,7 +31,7 @@ import android.support.v7.preference.ListPreference;
 import android.provider.Settings;
 
 import net.margaritov.preference.colorpicker.ColorPickerPreference;
-import com.beast.settings.preferences.CustomSeekBarPreference;
+import com.komodo.settings.preferences.CustomSeekBarPreference;
 
 public class PulseSettings extends SettingsPreferenceFragment implements
         Preference.OnPreferenceChangeListener {
@@ -276,6 +276,6 @@ public class PulseSettings extends SettingsPreferenceFragment implements
 
     @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.BEAST;
+        return MetricsProto.MetricsEvent.KOMODO;
     }
 }
